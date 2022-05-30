@@ -1,0 +1,2 @@
+#!/bin/bash
+-d tail -n 1 iacta
